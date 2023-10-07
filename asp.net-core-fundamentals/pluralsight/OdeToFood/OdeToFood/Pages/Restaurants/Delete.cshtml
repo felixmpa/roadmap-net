@@ -1,0 +1,19 @@
+@page "{restaurantId}"
+@model OdeToFood.Pages.Restaurants.DeleteModel
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<div class="alert alert-danger">
+    Are you sure you want to delete @Model.Restaurant.Name?
+</div>
+<form method="post">
+    <button type="submit" class="btn btn-danger">Yes!</button>
+    <a asp-page="List" class="btn btn-outline-primary">Cancel</a>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

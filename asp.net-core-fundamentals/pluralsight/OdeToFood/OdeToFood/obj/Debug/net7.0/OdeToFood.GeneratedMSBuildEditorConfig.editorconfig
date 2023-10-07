@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OdeToFood
+build_property.RootNamespace = OdeToFood
+build_property.ProjectDir = /Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/Restaurants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdGF1cmFudHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/Restaurants/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdGF1cmFudHMvRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/Restaurants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdGF1cmFudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/Restaurants/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdGF1cmFudHMvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/Restaurants/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdGF1cmFudHMvTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/Restaurants/_Summary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdGF1cmFudHMvX1N1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/Shared/Components/RestaurantCount/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0NvbXBvbmVudHMvUmVzdGF1cmFudENvdW50L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-aof4mxdatj

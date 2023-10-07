@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "rm4pTwEZoW5pAm4UtT0R7KAtldr0/4RFME6dESo6J04=",
+  "Source": "OdeToFood.Data",
+  "BasePath": "_content/OdeToFood.Data",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/pluralsight/OdeToFood/OdeToFood.Core/OdeToFood.Core.csproj",
+      "Version": 2,
+      "Source": "OdeToFood.Core",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
