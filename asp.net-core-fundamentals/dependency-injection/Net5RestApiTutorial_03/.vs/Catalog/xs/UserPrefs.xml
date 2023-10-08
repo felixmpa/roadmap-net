@@ -1,22 +1,24 @@
 ﻿<Properties StartupConfiguration="{9EBC5EE6-5B65-49AC-822D-109883DA24D8}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Repositories/IItemsRepository.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repositories/InMemItemsRepository.cs">
     <Files>
-      <File FileName="Repositories/IItemsRepository.cs" Line="8" Column="6" />
+      <File FileName="Repositories/IItemsRepository.cs" Line="12" Column="2" />
       <File FileName="Controllers/ItemsController.cs" />
       <File FileName="Dtos/ItemDto.cs" />
       <File FileName="Entities/Item.cs" />
       <File FileName="Properties/launchSettings.json" />
+      <File FileName="Repositories/InMemItemsRepository.cs" Line="17" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Catalog" expanded="True">
-            <Node name="Catalog" expanded="True">
+          <Node name="Catalog">
+            <Node name="Catalog">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
@@ -25,7 +27,7 @@
               <Node name="Entities" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="Repositories" expanded="True">
-                <Node name="IItemsRepository.cs" selected="True" />
+                <Node name="InMemItemsRepository.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -33,6 +35,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Catalog PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
