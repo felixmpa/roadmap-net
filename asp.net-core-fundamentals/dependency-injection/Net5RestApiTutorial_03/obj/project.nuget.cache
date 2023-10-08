@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jnKTMasSxG76SUXowRKMuICZVWO8FrTwrF0kO321RkjmovxDhH6kwQEY76USdf75aygh905+X6lRhlCYQjkd3w==",
+  "dgSpecHash": "3T68uCXZYV2MrC2vMGkWZiO4iaXTGx3c8oqenK60qoq05+F12esFuWAd5aeEQUL/eC3W/TxMhQX4IPyiWvTa1g==",
   "success": true,
   "projectFilePath": "/Users/felixperez/Projects/roadmap-net/asp.net-core-fundamentals/dependency-injection/Net5RestApiTutorial_03/Catalog.csproj",
   "expectedPackageFiles": [
